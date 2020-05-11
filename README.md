@@ -7,4 +7,4 @@ The attribute Survived is treated as a dependent variable which is to be predict
 
 A machine learning classification model is built using this data for predictions.
 A 'Kernel SVM' model is selected as the classification algorithm to be used.
-'train.csv' file contains the training datam for the model and 'test.csv' data is used to predict the values based on it.
+'train.csv' file contains the training data for the model and 'test.csv' data is used to predict the values based on it.
